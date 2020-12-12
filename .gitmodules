@@ -1,0 +1,4 @@
+[submodule "JavaSwing"]
+	path = JavaSwing
+	url = https://github.com/Andy-Cheng0428/JavaSwing
+	branch = master
