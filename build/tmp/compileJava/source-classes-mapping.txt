@@ -1,3 +1,7 @@
+Singleton.java
+ Singleton
+ Singleton$1
+ Singleton$InstanceHolder
 Main.java
  Main
  Main$1

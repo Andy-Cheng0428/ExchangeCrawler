@@ -27,7 +27,6 @@ public class Main {
     public static void main(String[] args) {
         Timer timer = new Timer();
 
-
         File file = new File("");
         String rootPath = file.getAbsolutePath();
         String a = rootPath.concat(pyLocation);
